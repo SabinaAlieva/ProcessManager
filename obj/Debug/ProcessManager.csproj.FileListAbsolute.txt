@@ -1,0 +1,9 @@
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe.config
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\bin\Debug\ProcessManager.pdb
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csprojResolveAssemblyReference.cache
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.MainWindow.resources
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.Properties.Resources.resources
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.Cache
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.exe
+c:\users\днс\documents\visual studio 2013\Projects\ProcessManager\ProcessManager\obj\Debug\ProcessManager.pdb
